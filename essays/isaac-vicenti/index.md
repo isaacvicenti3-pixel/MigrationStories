@@ -45,7 +45,7 @@ lead-image-caption: "What the image shows, who is in it, and the source. Example
   ============================================================
 {% endcomment %}
 
-This is a sample introduction. In a finished essay, this paragraph introduces readers to your family migration story:  naming who they are and their relationship to the student, why they moved, where they moved from and where they settled.It names the people and places and gives just enough background to make readers curious. A student would write about 100 to 120 words here. 
+This project explores the oral history of Christy Solicion (Kristie Cellicion), a Zuni woman who relocated to Utah in 1988 through the LDS Indian Student Placement Program. Facing racial prejudice away from home, Christy adapted by practicing a dual faith—combining Mormon traditions with Zuni spiritual practices—and finding emotional solace through running along Utah riverbeds and praying to her ancestors. Connecting her personal journey to class readings by Zitkala-Ša, the 1640s Laws of the Praying Town Indians, and Linda Hogan, this project highlights how Indigenous migrants preserve cultural identity and resilience across geographic and institutional borders.
 
 ## Subheader 1: The Journey Historical context and impacts (4-8 words)
 
